@@ -1,12 +1,12 @@
 Important Program For Placemrent
-    C Program to Swap Two Numbers
-    C Program to Check Whether a Number is Even or Odd
-    C Program to Check Whether a Character is a Vowel or Consonant
-    C Program to Find the Largest Number Among Three Numbers
-    C Program to Find the Roots of a Quadratic Equation
-    C Program to Check Leap Year
-    C Program to Check Whether a Number is Positive or Negative
-    C Program to Check Whether a Character is an Alphabet or not
+    C Program to Swap Two Numbers  (DONE)
+    C Program to Check Whether a Number is Even or Odd (DONE)
+    C Program to Check Whether a Character is a Vowel or Consonant (DONE)
+    C Program to Find the Largest Number Among Three Numbers (DONE)
+    C Program to Find the Roots of a Quadratic Equation (DONE)
+    C Program to Check Leap Year (DONE)
+    C Program to Check Whether a Number is Positive or Negative (DONE)
+    C Program to Check Whether a Character is an Alphabet or not (DONE)
     C Program to Calculate the Sum of Natural Numbers
     C Program to Find Factorial of a Number
     C Program to Generate Multiplication Table
