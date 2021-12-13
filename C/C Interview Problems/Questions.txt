@@ -10,7 +10,7 @@ Important Program For Placemrent
     C Program to Calculate the Sum of Natural Numbers (DONE)
     C Program to Find Factorial of a Number (DONE)
     C Program to Generate Multiplication Table (DONE)
-    C Program to Display Fibonacci Sequence
+    C Program to Display Fibonacci Sequence (DONE)
     C Program to Find GCD of two Numbers
     C Program to Find LCM of two Numbers
     C Program to Display Characters from A to Z Using Loop
