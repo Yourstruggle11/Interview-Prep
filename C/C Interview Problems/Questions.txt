@@ -30,4 +30,57 @@ Important Program For Placemrent
     C Program to Find the Sum of Natural Numbers using Recursion
     C Program to Find Factorial of a Number Using Recursion
     C Program to Find G.C.D Using Recursion
+    C Program to Print the Following Pattern : -
+
+    /*
+****
+****
+****
+****
+
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+
+1111
+2222
+3333
+4444
+
+
+123
+456
+789
+
+
+
+X
+XX
+XXX
+XXXX
+XXXXX
+
+
+1
+2 3
+4 5 6
+7 8 9 10
+
+    X
+   XX
+  XXX
+ XXXX
+XXXXX
+
+
+   X
+  XXX
+ XXXXX
+XXXXXXX
+ XXXXX
+  XXX
+   X
+  
+*/
     
