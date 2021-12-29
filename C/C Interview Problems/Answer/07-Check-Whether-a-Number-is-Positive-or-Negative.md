@@ -1,3 +1,5 @@
+# Question: Check Whether a Number is Positive or Negative.
+```c
 # include<stdio.h>
 
 int main(){
@@ -17,3 +19,16 @@ int main(){
     }
     return 0;
 }
+```
+
+**Input**
+
+```
+45
+```
+
+**Output**
+
+```
+45 is a positive number.
+```
