@@ -1,4 +1,4 @@
-# Question: Find-the-Roots-of-a-Quadratic-Equation.
+# Question: Find the Roots of a Quadratic Equation.
 
 ## TO solve this we should know what exactly Quadractic-Equation is!
 
