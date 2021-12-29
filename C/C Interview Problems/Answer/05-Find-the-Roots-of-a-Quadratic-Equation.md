@@ -1,16 +1,16 @@
-// TO solve this we should know what exactly Quadractic-Equation is!
-/*
-*In algebra, a quadratic equationis any equation that can be rearranged in standard form as
-*  'ax^2+bx+c=0'
-*  where x represents an unknown, and a, b, and c represent known numbers, where a ≠ 0. If a = 0, then the equation is linear, not quadratic, as there is no 'ax^2' term.
+# Question: Find-the-Roots-of-a-Quadratic-Equation.
 
-*The term 'b^2 - 4ac' is known as the discriminant of a quadratic equation. It tells the nature of the roots.
+## TO solve this we should know what exactly Quadractic-Equation is!
 
-*If the discriminant is greater than 0, the roots are real and different.
-*If the discriminant is equal to 0, the roots are real and equal.
-*If the discriminant is less than 0, the roots are complex and different.
-*/
+In algebra, a quadratic equation is any equation that can be rearranged in standard form as `ax^2+bx+c=0` where `x` represents an unknown, and `a, b,` and `c` represent known numbers, where `a ≠ 0`. If `a = 0`, then the equation is linear, not quadratic, as there is no `ax^2` term.
 
+The term `b^2 - 4ac` is known as the discriminant of a quadratic equation. It tells the nature of the roots.
+
+ If the discriminant is greater than `0`, the roots are real and different.
+ If the discriminant is equal to `0`, the roots are real and equal.
+ If the discriminant is less than `0`, the roots are complex and different.
+
+```c
 #include <math.h>
 #include <stdio.h>
 int main() {
@@ -62,4 +62,16 @@ int main() {
 
     return 0;
 }
+```
+
+**Input**
+
+```
+4 5 6
+```
+**Output**
+
+```
+root1 = -0.63+1.05i and root2 = -0.63-1.05i
+```
 
