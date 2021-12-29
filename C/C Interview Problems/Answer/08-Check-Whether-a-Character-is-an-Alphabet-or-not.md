@@ -1,3 +1,6 @@
+# Question: Check Whether a Character is an Alphabet or not.
+
+```c
 # include<stdio.h>
 #include <ctype.h>
 
@@ -15,3 +18,15 @@ int main(){
     }
     return 0;
 }
+```
+
+**Input**
+
+```
+45
+```
+**Output**
+
+```
+45 is not an Alphabet.
+```
