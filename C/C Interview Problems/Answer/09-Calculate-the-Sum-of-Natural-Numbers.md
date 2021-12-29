@@ -1,3 +1,5 @@
+# Question: Calculate the Sum of Natural Numbers.
+```c
 # include<stdio.h>
 
 int main(){
@@ -11,8 +13,20 @@ int main(){
     {
         sum = sum + i;
     }
-       printf("SUM OF THE %d is = %d\n", userInput ,sum);
+       printf("SUM OF THE %d IS = %d\n", userInput ,sum);
     
 
     return 0;
 }
+```
+
+**Input**
+
+```
+3
+```
+**Output**
+
+```
+SUM OF THE 3 IS 6
+```
