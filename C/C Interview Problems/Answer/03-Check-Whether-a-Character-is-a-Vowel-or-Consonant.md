@@ -1,3 +1,6 @@
+
+# Question: Check Whether a Character is a Vowel or Consonant.
+```c
 # include<stdio.h>
 
 int main(){
@@ -22,3 +25,18 @@ int main(){
     
     return 0;
 }
+```
+
+
+**Input**
+
+```
+A
+```
+
+
+**Output**
+
+```
+A is a Vowel
+```
