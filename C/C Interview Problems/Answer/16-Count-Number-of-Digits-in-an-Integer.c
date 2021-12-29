@@ -11,7 +11,6 @@ int countDigit(int n)
     return count;
 }
  
-// Driver code
 int main(void)
 {
     int userInput;
