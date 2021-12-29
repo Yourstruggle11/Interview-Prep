@@ -1,3 +1,5 @@
+# Question: Find Factorial of a Number.
+```c
 # include<stdio.h>
 
 int main(){
@@ -12,8 +14,20 @@ int main(){
         factorial = factorial * i;
     }
     
-    printf("FACTORIAL OF %d is = %d\n", userInput ,factorial);
+    printf("FACTORIAL OF %d IS = %d\n", userInput ,factorial);
     
 
     return 0;
 }
+```
+
+**Input**
+
+```
+3
+```
+**Output**
+
+```
+FACTORIAL OF 3 IS 6
+```
