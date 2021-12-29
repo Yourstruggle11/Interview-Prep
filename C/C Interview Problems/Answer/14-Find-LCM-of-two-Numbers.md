@@ -1,3 +1,6 @@
+# Question: Find LCM of two Numbers.
+
+```c
 # include<stdio.h>
 
 int main(){
@@ -25,3 +28,15 @@ int main(){
 
     return 0;
 }
+```
+
+**Inout**
+
+```
+6 9
+```
+**Output**
+
+```
+The LCM of 6 and 9 is 18
+```
