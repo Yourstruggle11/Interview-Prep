@@ -1,3 +1,6 @@
+# Question: Count Number of Digits in an Integer.
+
+```c
 #include <stdio.h>
  
 int countDigit(int n)
@@ -20,3 +23,15 @@ int main(void)
     printf("Number of digits : %d", countDigit(userInput));
     return 0;
 }
+```
+
+**Input**
+
+```
+4561
+```
+**Output**
+
+```
+Number of digits : 4
+```
