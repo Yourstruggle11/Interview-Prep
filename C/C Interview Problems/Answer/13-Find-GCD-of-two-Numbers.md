@@ -1,3 +1,6 @@
+# Question: Find GCD of two Numbers.
+
+```c
 # include<stdio.h>
 
 int main(){
@@ -20,3 +23,15 @@ int main(){
 
     return 0;
 }
+```
+
+**Input**
+
+```
+4 10
+```
+**Output**
+
+```
+The GCD of 4 and 10 is 2
+```
