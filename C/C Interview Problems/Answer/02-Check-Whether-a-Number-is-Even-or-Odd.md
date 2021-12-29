@@ -1,3 +1,5 @@
+# Question: Check Whether a Number is Even or Odd.
+```c
 # include<stdio.h>
 
 int main(){
@@ -13,3 +15,18 @@ int main(){
     }
     return 0;
 }
+```
+
+
+
+**Input**
+
+```
+10
+```
+
+**Output**
+
+```
+10 is an even number
+```
