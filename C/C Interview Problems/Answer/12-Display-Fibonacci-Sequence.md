@@ -1,3 +1,6 @@
+# Question: Display Fibonacci Sequence.
+
+```c
 # include<stdio.h>
 
 int main(){
@@ -20,3 +23,16 @@ int main(){
 
     return 0;
 }
+```
+
+**Input**
+
+```
+8
+```
+**Output**
+
+```
+Fibonacci Sequence is :
+0, 1, 1, 2, 3, 5, 8,
+```
