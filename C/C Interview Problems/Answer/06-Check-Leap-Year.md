@@ -1,3 +1,5 @@
+# Question: Check Leap Year.
+```c
 # include<stdio.h>
 
 int main(){
@@ -14,3 +16,15 @@ int main(){
 
     return 0;
 }
+```
+
+**Input**
+
+```
+2020
+```
+**Output**
+
+```
+2020 is a Leapyear.
+```
