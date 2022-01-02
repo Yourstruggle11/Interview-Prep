@@ -17,8 +17,8 @@ Important Program For Placemrent
     C Program to Count Number of Digits in an Integer (DONE)
     C Program to Reverse a Number (DONE)
     C Program to Calculate the Power of a Number (DONE)
-    C Program to Check Whether a Number is Palindrome or Not
-    C Program to Check Whether a Number is Prime or Not
+    C Program to Check Whether a Number is Palindrome or Not (DONE)
+    C Program to Check Whether a Number is Prime or Not (DONE)
     C Program to Display Prime Numbers Between Two Intervals
     C Program to Check Armstrong Number
     C Program to Display Armstrong Number Between Two Intervals
